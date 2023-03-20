@@ -1,0 +1,36 @@
+{
+  "short_name": "Tenzies",
+  "name": "Tenzies - A Dice Game",
+  "icons": [
+    {
+      "src": "Tenzies-icon@48",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "Tenzies-icon@96",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "Tenzies-icon@144",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "Tenzies-icon@192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "Tenzies-icon@500",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary"
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tenzies/static/css/main.686649a5.css",
+    "main.js": "/Tenzies/static/js/main.f9e4b346.js",
+    "static/js/787.80cd1330.chunk.js": "/Tenzies/static/js/787.80cd1330.chunk.js",
+    "index.html": "/Tenzies/index.html",
+    "main.686649a5.css.map": "/Tenzies/static/css/main.686649a5.css.map",
+    "main.f9e4b346.js.map": "/Tenzies/static/js/main.f9e4b346.js.map",
+    "787.80cd1330.chunk.js.map": "/Tenzies/static/js/787.80cd1330.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686649a5.css",
+    "static/js/main.f9e4b346.js"
+  ]
+}
